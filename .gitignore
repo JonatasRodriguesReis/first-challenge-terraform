@@ -1,3 +1,4 @@
 .terraform
 terraform.tfstate
 desafio-terraform-aws-pair*
+vars-env.tf
